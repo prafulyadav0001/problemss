@@ -1,3 +1,13 @@
+/*
+
+CODECHEF PROBLEM
+
+Weapon Value
+Problem Code:
+SC31
+*/
+
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
