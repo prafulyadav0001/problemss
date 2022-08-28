@@ -3,7 +3,6 @@
 CODECHEF PROBLEM
 
 Weapon Value
-Problem Code:
 SC31
 */
 
